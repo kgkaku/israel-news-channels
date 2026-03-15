@@ -1,5 +1,5 @@
-i24news.zip
 *.zip
+i24news.zip
 
 main.py
 __pycache__/
