@@ -1,8 +1,4 @@
-i24news.zip
 *.zip
-main.py
-__pycache__/
-*.pyc
-.DS_Store
-Thumbs.db
-##########
+   !i24news.zip
+   main.py
+   __pycache__/
