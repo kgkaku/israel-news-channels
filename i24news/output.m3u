@@ -1,7 +1,7 @@
 #EXTM3U
 # by @kgkaku
 # Script is programmed with publicly available data.
-# Generated: 2026-05-14 02:04:31
+# Generated: 2026-05-14 11:08:20
 
 #EXTINF:-1 tvg-id="i24news_en" tvg-logo="https://image.i24news.wiztivi.io/channels/en.jpg" group-title="i24NEWS English",i24NEWS English
 #EXTVLCOPT:network-caching=1500
